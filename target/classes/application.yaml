@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: shopintao
+  profiles:
+    active: dev

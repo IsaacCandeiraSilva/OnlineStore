@@ -1,0 +1,3 @@
+br\com\isaac\domain\model\Product.class
+br\com\isaac\domain\enums\ProductStatus.class
+br\com\isaac\ShopintaoApplication.class
