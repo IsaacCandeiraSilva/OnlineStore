@@ -15,6 +15,7 @@ spring:
   ai:
     openai:
       api-key: ${OPENAI_API_KEY:}        # usa variável de ambiente OPENAI_API_KEY
+
 management:
   endpoints:
     web:

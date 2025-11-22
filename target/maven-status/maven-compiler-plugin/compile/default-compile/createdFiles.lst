@@ -1,3 +1,8 @@
+br\com\isaac\api\dto\ProductRequest.class
+br\com\isaac\api\dto\ProductResponse.class
+br\com\isaac\domain\repository\ProductRepository.class
+br\com\isaac\api\controller\ProductController.class
 br\com\isaac\domain\model\Product.class
+br\com\isaac\domain\service\ProductService.class
 br\com\isaac\domain\enums\ProductStatus.class
 br\com\isaac\ShopintaoApplication.class

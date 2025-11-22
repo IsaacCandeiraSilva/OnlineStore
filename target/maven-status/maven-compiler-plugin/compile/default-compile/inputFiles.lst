@@ -1,3 +1,8 @@
+C:\Projetos\Estudos\OnlineStore\src\main\java\br\com\isaac\api\controller\ProductController.java
+C:\Projetos\Estudos\OnlineStore\src\main\java\br\com\isaac\api\dto\ProductRequest.java
+C:\Projetos\Estudos\OnlineStore\src\main\java\br\com\isaac\api\dto\ProductResponse.java
 C:\Projetos\Estudos\OnlineStore\src\main\java\br\com\isaac\domain\enums\ProductStatus.java
 C:\Projetos\Estudos\OnlineStore\src\main\java\br\com\isaac\domain\model\Product.java
+C:\Projetos\Estudos\OnlineStore\src\main\java\br\com\isaac\domain\repository\ProductRepository.java
+C:\Projetos\Estudos\OnlineStore\src\main\java\br\com\isaac\domain\service\ProductService.java
 C:\Projetos\Estudos\OnlineStore\src\main\java\br\com\isaac\ShopintaoApplication.java

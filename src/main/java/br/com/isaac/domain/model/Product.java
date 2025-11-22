@@ -9,6 +9,7 @@ import lombok.Getter;
 import lombok.Setter;
 import org.hibernate.annotations.GenericGenerator;
 
+import java.math.BigDecimal;
 import java.time.Instant;
 import java.util.UUID;
 
@@ -23,7 +24,7 @@ public class Product {
     @Column(updatable = false, nullable = false, name = "id", columnDefinition = "CHAR(36)")
     private UUID id;
     private String name;
-    private Double price;
+    private BigDecimal price;
     private String description;
     private Integer stockQuantity;
     private ProductStatus status;
